@@ -1,0 +1,396 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" href="bags.css" type="text/css"/>
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="hideshow.js"></script>
+<title>Seminar on Faltings's Theorem</title>
+</head>
+
+<body>
+
+<h1>Seminar on Faltings's Theorem</h1>
+<h2>Spring 2016 <br/> Mondays 9:30am-11:00am at SC 232 </h2> 
+<!--
+<h3>
+ <font color="#FF0000">
+ Announcement <br>
+ </font>
+</h3> 
+-->
+
+<ul class="talks">
+  <li>
+    <span class="info date"><b>Feb 1</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Chi-Yun Hsu</span>
+    <br/>
+    <span class="title">
+    Tate's conjecture over finite fields and overview of Faltings's Theorem<br>([T1] and Ch 1,2 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+        TBA
+      </span>
+    </span>
+  </li>
+-->
+
+  <li>
+    <span class="info date"><b>Feb 12</b>9-10:30am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Chi-Yun Hsu</span>
+    <br/>
+    <span class="title">
+    Introduction to group schemes ([T2] and Sec. 3.1-3.4 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Feb 15</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Zijian Yao</span>
+    <br/>
+    <span class="title">
+    p-divisible groups ([T3] and Sec. 3.5-3.7 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Feb 22</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Nicholas Triantafillou</span>
+    <br/>
+    <span class="title">
+    Basics of abelian varieties (Sec. 4.0-5.14 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Feb 29</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Chi-Yun Hsu</span>
+    <br/>
+    <span class="title">
+    More on abelian varieties (Sec. 5.15-5.20 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 7</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Borys Kadets</span>
+    <br/>
+    <span class="title">
+    Height functions and Jacobians (Ch 6, 7 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 14</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">No seminar - Arizona Winter School</span>
+    <br/> 
+    <span class="title">
+    
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 21</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Alex Smith</span>
+    <br/>
+    <span class="title">
+    N&eacuteron models (Ch IV of [S], [BLR] and Ch 8 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 28</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Zijian Yao</span>
+    <br/>
+    <span class="title">
+    Arakelov intersection theory (Ch 12 of [CS] and [F])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>April 4</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Chi-Yun Hsu</span>
+    <br/>
+    <span class="title">
+    Siegel moduli schemes and their compactification over C ([C], [G], [N] and Ch 9 of [CS]) 
+   </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>April 11</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Alex Smith</span>
+    <br/>
+    <span class="title">
+    Proof of Faltings's theorem I: Overview (Ch 2 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>April 18</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Zijian Yao</span>
+    <br/>
+    <span class="title">
+    II: Tate's Conjecture implies Shafarevich's Conjecture (Sec. 2.6 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>April 25</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Koji Shimizu</span>
+    <br/>
+    <span class="title">
+    III: Shafarevich's Conjecture implies Mordell's Conjecture ([P] and Sec. 2.6 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>April 27</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Chi-Yun Hsu</span>
+    <br/>
+    <span class="title">
+    IV: Finiteness Theorem of Abelian Varieties with Bounded Heights ([D], [Sz1] and Sec. 2.2-2.3 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>May 2</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">No seminar - Time conflict with Tasho's class this week</span>
+    <br/>
+    <span class="title">
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li class="next">
+    <span class="info date"><b>May 9</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Zijian Yao</span>
+    <br/>
+    <span class="title">
+    V: Isogenies and Heights ([D] and Sec. 2.4 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>May 11</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Koji Shimizu</span>
+    <br/>
+    <span class="title">
+    VI: Tate's Conjecture ([D], [Sz2] and Sec. 2.5 of [CS])
+    </span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+<!--
+  <li>
+    <span class="info date"><b>May 16</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Lynnelle Ye</span>
+    <br/>
+    <span class="title">
+    Bombieri's proof of Faltings's theorem I ([B])
+    </span>
+
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+
+  </li>
+
+  <li>
+    <span class="info date"><b>May 18</b>9:30-11am</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Lynnelle Ye</span>
+    <br/>
+    <span class="title">
+    Bombieri's Proof of Faltings's theorem II ([B])
+    </span>
+
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+
+  </li>
+-->
+
+</ul>
+
+<p>
+References:<br>
+[B] Bombieri, The Mordell Conjecture revisited (1990)<br>
+[BLR] Bosch, L&uumltkebohmert, Raynaud, N&eacuteron models<br>
+[D] Deligne, Preuve des conjectures de Tate et de Shafarevitch<br>
+[C] C.-L. Chai, Moduli of abelian varieties (survey style)<br>
+[CS] Cornell, Silverman, Arithmetic Geometry<br>
+[P] Parshin, Algebraic curves over function fields (1968)<br>
+[F] Faltings, Calculus on arithmetic surfaces<br>
+[G] Goresky, Compactifications and cohomology of modular varieties <br>
+[HS] Hindry, Silverman, Diophantine Geometry<br>
+[L] Lang, Introduction to Arakelov Theory<br>
+[M] Milne, Abelian Varieties<br>
+[N] Namikawa, Toroidal compactification of Siegel spaces, LNM 812<br>
+[S] Silverman, Advanced Topics in the Arithmetic of Elliptic Curves<br>
+[Sz1] Szpiro, S&eacuteminaire sur les pinceaux arithm&eacutetiques: la conjecture de Mordell<br>
+[Sz2] Szpiro, La conjecture de Mordell <br>
+[T1] Tate, Endomorphism of abelian varieties over finite fields (1966)<br>
+[T2] Tate, Finite flat group schemes<br>
+[T3] Tate, p-divisible groups<br>
+</p>
+
+<p>
+Related Papers:<br>
+Zarhin, Isogenies of abelian varieties over fields of finite characteristics (1974)<br>
+Zarhin, A remark on endomorphisms of abelian varieties over function fields of finite characterstics (1974)
+</p>
+
+<div class="footer">
+<p>
+The seminar is organized by Chi-Yun Hsu [chiyun@math.harvard.edu] and Zijian Yao [zyao@math.harvard.edu].
+We welcome any questions or comments.
+</p>
+<p>
+  The design of this webpage is copied shamelessly from 
+  <a href="http://math.harvard.edu/bags">BAGS</a>,
+  which originates from
+  <a href="http://math.mit.edu/~zakh/juvitop.html"> Juvitop's webpage</a>
+  <br/>
+  <a href="http://validator.w3.org/check?uri=referer"> XHTML 1.0 Strict</a>
+  <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+</p>
+</div>
+
+</body>
+</html>

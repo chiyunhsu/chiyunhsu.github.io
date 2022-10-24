@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" href="bags.css" type="text/css"/>
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="hideshow.js"></script>
+<title>Algebraic Geometry Learning Seminar </title>
+</head>
+
+<body>
+
+<h1>Algebraic Geometry Learning Seminar</h1>
+<h2> Spring 2015 <br/>Mondays at 4:15pm at SC 232</h2> 
+<!--
+<h3>
+ <font color="#FF0000">
+ This week (Oct 30) we are swapping BAGS and AGLS time slots! 
+ </font>
+</h3> 
+-->
+The topic for this semester is compact complex surfaces.<br/>
+References are:<br/>
+A. Beauville, Complex Algebraic Surfaces.<br/>
+W. Barth, K. Hulek, C. Peters, A. Van de Ven, Compact Complex Surfaces.
+
+<ul class="talks">
+  <li>
+    <span class="info date"><b>Feb 9</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">No seminar!</span>
+    <br/>
+    <span class="title">Cancelled due to winter storm</span>
+<!--
+    <span class="abstract">
+      <span>
+        TBA
+      </span>
+    </span>
+  </li>
+-->
+
+  <li>
+    <span class="info date"><b>Feb 17</b>12-1pm</font></span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Eric Riedl (Tuesday!)</span>
+    <br/>
+    <span class="title">Chapter 2 of Beauville - Birational maps</span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Feb 23</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Changho Han</span>
+    <br/>
+    <span class="title">Chapter 3 of Beauville - Ruled surfaces</span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 2</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Chi-Yun Hsu</span>
+    <br/>
+    <span class="title">Chapter 4 of Beauville - Rational surfaces</span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 9</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Adrian Zahariuc</span>
+    <br/>
+    <span class="title">Chapter 5 of Beauville - Castelnuovo's theorem and applications</span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 16</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Spring Break -- No seminar</span>
+    <br/>
+    <span class="title"></span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 23</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Changho Han</span>
+    <br/>
+    <span class="title">Chapter 6 of Beauville - Surfaces with p_g=0 and q&ge;1</span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 30</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">No Seminar this Week</span>
+    <br/>
+    <span class="title"></span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+
+  <li>
+    <span class="info date"><b>Apr 6</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">No Seminar this Week</span>
+    <br/>
+    <span class="title"></span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Apr 13</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">No Seminar this Week</span>
+    <br/>
+    <span class="title"></span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+
+  <li>
+    <span class="info date"><b>Apr 20</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">No Seminar this Week</span>
+    <br/>
+    <span class="title"></span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+  <li class="next">
+    <span class="info date"><b>Apr 30</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Philip Tynan (Thursday) </span>
+    <br/>
+    <span class="title">Chapter 9 of Beauville - Surfaces with &kappa;=1 and ellptic surfaces</span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+<!--
+  <li>
+    <span class="info date"><b>May 18</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Chi-Yun Hsu</span>
+    <br/>
+    <span class="title">Chapter 10 of Beauville - Surfaces of general type</span>
+-->
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+  </li>
+
+</ul>
+
+Archive from previous years:
+<a href ="archive/spring2013.html" >Spring 2013</a>,
+<a href ="archive/fall2013.html" >Fall 2013</a>,
+<a href ="archive/spring2014.html" >Spring 2014</a> and
+<a href ="archive/fall2014.html" >Fall 2014</a>.
+
+<div class="footer">
+The seminar is organized by Changho Han [chhan@math.harvard.edu]
+and Chi-Yun Hsu [chiyun@math.harvard.edu].
+<p>
+  The design of this webpage is copied shamelessly from
+  <a href="http://math.mit.edu/~zakh/juvitop.html"> Juvitop's webpage</a>
+  <br/>
+  <a href="http://validator.w3.org/check?uri=referer"> XHTML 1.0 Strict</a>
+  <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+</p>
+</div>
+
+</body>
+</html>

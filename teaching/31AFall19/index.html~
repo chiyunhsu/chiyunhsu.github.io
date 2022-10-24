@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Math 31A (Section 1), Fall 2019</title>
+    <style>
+      
+      #calendar{
+	  table-layout: fixed;
+	  border-collapse: collapse;
+	  width: 100%;
+      }
+      #calendar td, #calendar th {
+	  border: 1px solid #000;
+	  width: 90px;
+	  text-align: center;
+      }
+      #calendar th+th {
+	  width: auto;
+      }
+
+      #normal {
+	  table-layout: auto;
+      }
+      #normal td {
+	  border: ;
+      }
+    </style>
+  </head>
+  
+  <body>
+    
+    <h2>Math 31A (Section 1), Fall 2019: Differential and Integral Calculus</h2>
+    
+    <p>
+      Mon, Wed, Fri 8-8:50am
+      <br>
+      Math. Sciences Building 4000A<br>
+    </p>
+    
+    <p>
+    Syllabus.pdf
+    </p>
+
+    <p><b>Instructor</b> <br>
+      Chi-Yun Hsu <br>
+      Office: MS 5242 <br>
+      Email: cyhsu at math.ucla.edu
+     
+      <table id="normal">
+	<caption style="text-align:left">Office Hours:</caption>
+	<tr>
+	  <td>Sundays</td>
+	  <td>5-6pm</td>
+	  <td>at the tables south of the Mathematical Sciences Building breezeway </td>
+	</tr>
+	<tr>
+	  <td>Tuesdays </td>
+	  <td>5-6pm </td>
+	  <td> at MS 5242 </td>
+	</tr>
+	<tr>
+	  <td> Thursdays </td>
+	  <td> 5-6pm </td>
+	  <td> at MS 5242 </td>
+	</tr>
+      </table>
+    </p>
+  
+    <p><b>Teaching Assistants</b><br>
+    TBD  
+    </p>
+
+    <p><b>Textbook</b><br>
+      Rogawski, Single Variable Calculus, 4th Edition
+    </p>
+
+    <table width="40%", id="normal">
+      <caption style="text-align:left"><b>Grade</b></caption>
+      <tr>
+	<td> Homework </td>
+	<td> 30% </td>
+	<td> </td>
+      </tr>
+      <tr>
+	<td> Midterms </td>
+	<td> 40% </td>
+	<td> </td>
+      </tr>
+      <tr>
+	<td> Final Exam </td>
+	<td> 30% </td>
+	<td> </td>
+      </tr>
+    </table>
+             
+    <p><b>Homework</b><br>
+      Homework will be posted the night before the class, and is due at the beginning of the the next class.
+      If you miss a class, you are still responsible for handing in the homework on time, either by asking a classmate to hand it in for you, or by sending an email to the grader  with a clear photo or scan of your assignment.
+      To be fair to other students and to graders, late homework will NOT be accepted.
+      The lowest homework score will be dropped.
+      <br><br>
+      You are encouraged to discuss the problems with other students.
+      However, you must write up the solutions on your own, as writing helps you probe and deepen your understanding.
+      Apart from help from me or the TAs, you must acknowledge any collaborators or cite references at the top of your assignement.
+    </p>
+
+    <table width="40%", id="normal">
+      <caption style="text-align:left"><b>Exams</b></caption>
+      <tr>
+	<td> Midterm 1 </td>
+	<td> Oct. 25 (Fri.)</td>
+	<td>8-8:50am </td>
+	<td> MS 4000A </td>
+      </tr>
+       <tr>
+	<td> Midterm 2 </td>
+	<td> Nov. 18 (Mon.) </td>
+	<td>8-8:50am </td>
+	<td> MS 4000A </td>
+      </tr>
+      <tr>
+	<td> Final Exam </td>
+	<td> Dec. 10 (Tues.)</td>
+	<td> 8-11am </td>
+	<td> TBD </td>
+      </tr>
+    
+    </table>
+    
+
+    <p><b>Disabilities Requiring Accommodation</b><br>
+      If you are already registered with the Center for Accessible Education (CAE), please request your Letter of Accommodation on the Student Portal. If you are seeking registration with the CAE, please submit your request for accommodations via the CAE website. Please note that the CAE does not send accommodations letters to instructors -- you must request that I view the letter in the online Faculty Portal. Once you have requested your accommodations via the Student Portal, please notify me immediately so I can view your letter.
+      <br><br>
+      Students with disabilities requiring academic accommodations should submit their request for accommodations as soon as possible, as it may take up to two weeks to review the request. For more information, please visit the CAE.
+      <blockquote><font size="2">
+	  Center for Accessible Education (CAE) <br>
+	  A255 Murphy Hall <br>
+	  www.cae.ucla.edu <br>
+	  (310) 825-1501.
+      </font></blockquote>
+    </p>
+
+
+    <p><b>Statement on Sexual Misconduct</b><br>
+      Title IX prohibits gender discrimination, including sexual harassment, domestic and dating violence, sexual assault, and stalking.
+      If you have experienced sexual harassment or sexual violence, you can receive confidential support and advocacy at  <br>
+      <blockquote><font size="2">
+	CARE Advocacy Office for Sexual and Gender-Based Violence <br>
+	1st Floor Wooden Center West <br>
+	CAREadvocate@careprogram.ucla.edu <br>
+	(310) 206-2465.
+      </font></blockquote>
+      In addition, Counseling and Psychological Services (CAPS) provides confidential counseling to all students and can be reached 24/7 at (310) 825-0768. <br>
+      You can also report sexual violence or sexual harassment directly to <br>
+      <blockquote><font size="2">
+	University's Title IX Coordinator <br>
+	2241 Murphy Hall <br>
+	titleix@conet.ucla.edu <br>
+	(310) 206-3417 <br>
+      </font></blockquote>
+      Reports to law enforcement can be made to UCPD at (310) 825-1491.
+      <br>
+      Faculty and TAs are required under the UC Policy on Sexual Violence and Sexual Harassment to inform the Title IX Coordinator should they become aware that you or any other student has experienced sexual violence or sexual harassment.
+    </p>
+  
+    <!--    
+  <a href="">Syllabus</a>
+    <br>
+-->
+      
+    <table width="75%", id="calendar">
+      <caption style="text-align:left"><b>Calendar</b></caption>
+      <tr>
+	<th></th>
+	<th>Monday</th>
+	<th>Wednesday</th>
+	<th>Friday</th>
+      </tr>
+      <tr>
+	<td> Week 0 (9/23-9/27)
+	<td>  </td>
+	<td>  </td>
+	<td> 1. Introduction </td>
+      </tr>
+      <tr>
+	<td> Week 1 (9/30-10/4)
+	<td> 2. Limit Laws, Limits and Continuity  </td>
+	<td> 3. Evaluating Limits Algebraically </td>
+	<td> 4. Trigonometric Limits, Limits at Infinity </td>
+      </tr>
+      <tr>
+	<td> Week 2 (10/7-10/11)
+	<td> 5. Intermediate Value Theorem </td>
+	<td> 6. Definition of the Derivative  </td>
+	<td> 7. The Derivative as a Function </td>
+      </tr>
+      <tr>
+	<td> Week 3 (10/14-10/18)
+	<td> 8. Product and Quotient Rules </td>
+h	<td> 9. Higher Derivatives, Trig Functions </td>
+	<td> 10. The Chain Rule </td>
+      </tr>
+      <tr>
+	<td> Week 4 (10/21-10/25)
+	<td> 11. Implicit Differentiation </td>
+	<td> 12. Related Rates </td>
+	<td> 13. Midterm 1</td>
+      </tr>
+      <tr>
+	<td> Week 5 (10/28-11/1)
+	<td> 14. Linear Approximation, Extreme Values </td>
+	<td> 15. Extreme Values continued </td>
+	<td> 16. Mean Value Theorem </td>
+      </tr>
+      <tr>
+	<td> Week 6 (11/4-11/8)
+	<td> 17. The Shape of a Graph </td>
+	<td> 18. Graph Sketching </td>
+	<td> 19. Applied Optimization </td>
+      </tr>
+      <tr>
+	<td> Week 7 (11/11-11/15)
+	<td> No class (Veteran's Day) </td>
+	<td> 20. Newton's Method, Area </td>
+	<td> 21. The Definite Integral </td>
+      </tr>
+      <tr>
+	<td> Week 8 (11/18-11/22)
+	<td> 22. Midterm 2</td>
+	<td> 23. The Indefinite Integral </td>
+	<td> 24. Fundamental Theorem I </td>
+      </tr>
+      <tr>
+	<td> Week 9 (11/25-11/29)
+	<td> 25. Fundamental Theorem II </td>
+	<td> 26. The Substitution Method </td>
+	<td>  No class (Thanksgiving) </td>
+      </tr>
+      <tr>
+	<td> Week 10 (12/2-12/6)
+	<td> 27. Areas Between Curves, Average Value </td>
+	<td> 28. Volumes of Revolution </td>
+	<td> 29. Method of Cylindrical Shells </td>
+      </tr>
+
+    </table>
+
+
+</body>
+</html>

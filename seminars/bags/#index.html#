@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" href="bags.css" type="text/css"/>
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="hideshow.js"></script>
+<title>Baby Algebraic Geometry Seminar </title>
+</head>
+
+<body>
+ 
+
+<h1>Baby Algebraic Geometry Seminar </h1>
+<h2> Spring 2015 <br/>Wednesdays at 4:15pm at SC 232</h2>
+<!--
+<h3>
+ <font color="#FF0000">
+ This week (Oct 30) BAGS is cancelled 
+ and we will have intead an AGLS talk in the usual time slot.
+ </font> 
+</h3>
+-->
+
+<ul class="talks">
+  <li>
+    <span class="info date"><b>Feb 4</b>3:15-5:15pm</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Alex Perry</span>
+    <br/>
+    <span class="title">
+      Derived categories of Fano varieties of degree 10
+    </span>
+    <span class="abstract">
+      <span>
+In the first half of the talk, 
+I'll discuss background material on homological projective duality.
+In the second half, 
+I'll discuss joint work with Alexander Kuznetsov on the derived categories 
+of Fano varieties of Picard number 1, degree 10, and coindex 3.
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Feb 11</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Chi-Yun Hsu</span>
+    <br/>
+    <span class="title">An Adelic Approach to Riemann-Roch Theorem for Curves over Finite Fields</span>
+    <span class="abstract">
+      <span>
+For curves defined over finite fields, 
+we present a proof for the Riemann-Roch theorem
+focusing on the their function fields. 
+Using the correspondence between adeles and divisors, 
+the Riemann-Roch Theorem is a reinterpretation of the self-duality 
+of the locally compact additive group of the Adele ring. 
+The reference for the talk is A. Weil, Basic Number Theory, chap. VI.  
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Feb 18</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Gabriel Bujokas</span>
+    <br/>
+    <span class="title">Invariants of branched covers of P^1</span>
+    <span class="abstract">
+      <span>
+A branched cover is a (non-constant) holomorphic map from a smooth irreducible curve C to P^1. If you have spent some time with Anand, you may have heard of some natural vector bundles one can associate to a branched cover. In this talk we will define these vector bundles, and compute their splitting types in some of the known cases.
+Depending on how far we get, we may also talk about balanced bundles on a chain of rational curves, and a specific version of the maximal rank problem that arises from these computations.  
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Feb 25</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Atanas Atanasov</span>
+    <br/>
+    <span class="title">The ADE classification and beyond</span>
+    <span class="abstract">
+      <span>
+The aim of this talk will be to introduce rational double point singularities on surfaces and discuss various aspects of their classification. As time permits, we will motivate several related local-to-global questions about quotient singularities and talk about potential approaches.  
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 4</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">C&eacute;sar Lozano Huerta</span>
+    <br/>
+    <span class="title">Degenerations of Castelnuovo curves in projective 3-space</span>
+    <span class="abstract">
+      <span>
+In this talk, we'll study the following classical question: In what ways can a smooth non-degenerate curve in projective 3-space degenerate to a singular, reducible or non-reduced curve? and as it degenerates, what is the behavior of the defining equations? 
+I will present a partial answer to this question for the case of Castelnuovo curves. All the necessary definitions and conventions will be presented.   
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 11</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Francesco Cavazzani</span>
+    <br/>
+    <span class="title">3264, again?!</span>
+    <span class="abstract">
+      <span>
+How many plane conics are tangent to 5 general conics? Looking back in my 4 years of graduate school, I believe I have explored all possible ways to answer to this question. Still, in this talk I am going to present a different one, using tools from representation theory to deal with the intersection theory of the space of complete conics. As Joe says, the main point of enumerative geometry is not really to get numbers (even though you have to admit that 3264 is a pretty cool number); the aim is to learn how to use new tools, to apply elsewhere. In fact, if time permits, I will show how in my thesis I am trying to apply all of this to the study of the geometry of twisted cubics.  
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Mar 18</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Spring Break -- No seminar</span>
+    <br/>
+    <span class="title"></span>
+<!--
+    <span class="abstract">
+      <span>
+  
+      </span>
+    </span>
+-->
+ </li>
+
+ <li>
+    <span class="info date"><b>Mar 25</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">No Seminar this Week</span>
+    <br/>
+    <span class="title"></span>
+<!--
+    <span class="abstract">
+      <span>
+
+      </span>
+    </span>
+-->
+  </li>
+
+  <li>
+    <span class="info date"><b>Apr 1</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Erick Knight</span>
+    <br/>
+    <span class="title">N&eacuteron Models, Elliptic Surfaces, and ADE Singularities</span>
+    <span class="abstract">
+      <span>
+The theory of N&eacuteron models explains how to extend an elliptic curve over the generic fiber of a discrete valuation ring to a relative curve over the whole discrete valuation ring.  The theory is useful to number theorists who can use it to talk about the reduction of an elliptic curve mod p and to algebraic geometers who can use it to give a canonical model of an elliptic surface.  The possible fibers are somewhat mysterious however, and the aim of this talk is to relate them to ADE singularities, which locally look like quotients of the plane by finite subgroups of SL<sub>2</sub>.     
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Apr 8</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Netanel Blaier (MIT) </span>
+    <br/>
+    <span class="title">Vector bundles on curves in g=0,1</span>
+    <span class="abstract">
+      <span>
+The moduli of vector bundles on a curve is a fascinating mathematical object connected to algebraic geometery, differential geometry and low dimensional topology, but there are only a few cases where vector bundles are classified explicitly. The first nontrivial case (due to Grothendieck's splitting) is when the base curve is elliptic over an algebrically closed field, which was completely solved by Atiyah. This talk would give an overview of some of these classical results.  
+      </span>
+    </span>
+  </li>
+
+  <li class>
+    <span class="info date"><b>Apr 15</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Eric Riedl (4:00-5:00pm)</span>
+    <br/>
+    <span class="title">Unirationality of high dimensional hypersurfaces</span>
+    <span class="abstract">
+      <span>
+One important question in binational geometry is whether a given variety admits a rational map from P<sup>n</sup>. We present a result of Harris, Mazur and Pandharipande that shows that a smooth low degree hypersurface in very high dimension does admit such a rational map.       
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Apr 22</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Changho Han</span>
+    <br/>
+    <span class="title">Potential density of quartic threefolds</span>
+    <span class="abstract">
+      <span>
+For curves, we know well that how many rational points are there depending on their genus. For surfaces, we have good idea about this problem via Enriques-Kodiara classification. Unfortunately, we do not have much idea for threefolds. Inspired from Lang's conjectures, I will discuss about potential density conjecture, which states that for any projective fano variety over a number field, we can choose some finite extension of that field to extract Zariski dense amount of rational points. This talk will focus on one nontrivial case of this conjecture, the quartic threefolds. I will draw some striking geometrical method used to prove arithmetic fact. The reference for the brilliant idea came from a paper by J. Harris and Y. Tschinkel called "Rational Points on Quartics"       
+      </span>
+    </span>
+  </li>
+
+  <li>
+    <span class="info date"><b>Apr 29</b>2015</span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Yaim Cooper</span>
+    <br/>
+    <span class="title">Severi degrees and representation theory</span>
+    <span class="abstract">
+      <span>
+How many curves are there in P<sup>2</sup> of degree d and genus g
+through 3d+g-1 general points?  Mathematicians have been trying to
+answer this question for hundreds of years.  In the 90's, Caparaso and
+Harris proved a recursive formula which provided a complete answer to
+this question.  In this talk, I discuss a new approach to computing
+Severi degrees of surfaces in terms of operators on an infinite
+dimensional vector space.       
+      </span>
+    </span>
+  </li>
+
+  <li class="next">
+    <span class="info date"><b>May 1</b>
+<font color="#FF0000">1:30-2:30pm</font></span>
+    <span class="info location"><b>SC 232</b>Harvard</span>
+    <span class="speaker">Adrian Zahariuc 
+<font color="#FF0000">(Friday!)</font></span>
+    <br/>
+    <span class="title">Specialization of quintic threefolds to the secant variety</span>
+    <span class="abstract">
+      <span>
+We consider the degeneration of quintic threefolds obtained by
+running semistable reduction on a general pencil of quintics specializing to the secant variety of a normal elliptic curve in projective 4-space. The question we would like to address is: what are the flat limits of the rational curves in this degeneration? In this talk, I will provide a good âfirst approximationâ to the answer by describing the space of genus zero stable morphisms to the central fiber (as defined by J. Li).       
+      </span>
+    </span>
+  </li>
+
+</ul>
+
+Archive from previous years:
+<a href ="archive/spring2011.html" >Spring 2011</a>,
+<a href ="archive/fall2011.html" >Fall 2011</a>,
+Spring 2012,
+<a href ="archive/fall2012.html" >Fall 2012</a>,
+<a href ="archive/spring2013.html" >Spring 2013</a>,
+<a href ="archive/fall2013.html" >Fall 2013</a>,
+<a href ="archive/spring2014.html" >Spring 2014</a> and
+<a href ="archive/fall2014.html" >Fall 2014</a>.
+
+<p>
+Below are some ideas for talks. 
+You may want to look at Izzet Coskun's
+<a href="http://homepages.math.uic.edu/~coskun/bagslist.pdf">list</a>
+(with lots of references)
+or Johan de Jong's
+<a href="http://www.math.columbia.edu/~dejong/seminar/list_papers.html">
+seminar page</a>
+for more topics.
+</p>
+
+<h3>Pretalks</h3>
+<p>  We can have <em>pretalks</em> for the <a href="http://math.harvard.edu/ags/">algebraic geometry seminar</a>. That is, talks explaining the background material for the talk in the main seminar. This is immensely helpful. If you see a talk lined up in the main seminar about something dear to you, do consider giving a pretalk.</p>
+
+<h3>Foundational Topics</h3>
+
+<ol >
+<li> GAGA - basically, analytic geometry in projective space is algebraic. 
+<em>"G&#233;om&#233;trie alg&#233;braique et g&#233;om&#233;trie analytique"</em> by <em>Serre, <a href="http://www.numdam.org/numdam-bin/item?id=AIF_1956__6__1_0"><tt>http://www.numdam.org/numdam-bin/item?id=AIF_1956__6__1_0</tt></a></em>.
+</li>
+
+<li> Blow ups - they are much more complicated than you would think.
+<em>"Seven short stories on blow ups and resolutions"</em> by <em>Hauser, <a href="http://gokovagt.org/proceedings/2005/ggt05-hauser.pdf"><tt>http://gokovagt.org/proceedings/2005/ggt05-hauser.pdf</tt></a></em>.
+</li>
+
+<li> Serre duality - make it as concrete as possible.
+</li>
+
+<li> Cohomology and base change - there is an excellent exposition in Mumford's "Abelian Varieties".
+</li>
+
+<li> Interesting counterexamples.
+</li>
+</ol>
+
+
+<h3>Curves</h3>
+
+<ol >
+<li> Limit linear series - how to extend the notion of linear series on smooth curves to singular curves?
+<em>"Limit linear series: basic theory"</em> by <em>Eisenbud, Harris, <a href="http://www.springerlink.com/content/p0418455005t2pwq/"><tt>http://www.springerlink.com/content/p0418455005t2pwq/</tt></a></em>.
+</li>
+
+<li> Nonreduced structures on <b>P</b><sup>1</sup> - ribbons, carpets etc.
+<em>"Ribbons and their canonical embeddings"</em> by <em>Eisenbud, <a href="http://www.msri.org/~de/papers/pdfs/1995-001.pdf"><tt>http://www.msri.org/~de/papers/pdfs/1995-001.pdf</tt></a></em>.
+</li>
+</ol>
+
+
+<h3>Moduli Spaces</h3>
+
+<ol >
+<li> Kontsevich's formula for counting rational curves and introduction to quantum cohomology.
+<em>"Notes on stable maps and quantum cohomology"</em> by <em>Fulton, Pandharipande, <a href="http://arxiv.org/abs/alg-geom/9608011"><tt>http://arxiv.org/abs/alg-geom/9608011</tt></a></em>.
+</li>
+
+<li> The effective cone of the Kontsevich spaces. 
+<em>"The effective cone of the Kontsevich moduli space"</em> by <em>Coskun, Harris, Starr, <a href="http://www.math.sunysb.edu/~jstarr/papers/reveff.pdf"><tt>http://www.math.sunysb.edu/~jstarr/papers/reveff.pdf</tt></a></em>.
+</li>
+
+<li> Murphy's law in algebraic geometry - this makes precise and proves the following remark of Joe Harris - "There is no geometric possibility so horrible that it doesn't appear on a Hilbert scheme." 
+<em>"Murphy's law in algebraic geometry"</em> by <em>Ravi Vakil, <a href="http://math.stanford.edu/~vakil/files/Mjul0705.pdf"><tt>http://math.stanford.edu/~vakil/files/Mjul0705.pdf</tt></a></em>.
+</li>
+
+<li> Anything about the moduli of higher dimensional varieties.
+</li>
+
+<li> Anything about Abelian varieties and their moduli space. The standard reference is <em>"Abelian Varieties"</em> by <em>Mumford</em>. Also see the book <em>"Complex Abelian Varieties"</em> by <em>Birkenhake</em>.
+</li>
+</ol>
+
+
+
+<h3>Higher Dimensional Geometry</h3>
+
+<ol >
+<li> Rationality, uniruledness, rational connectivity - a concrete topic related to these areas or a general overview. Two good references are the books <em>"Higher dimensional algebraic geometry"</em> by <em>Debarre</em> and <em>"Rational and nearly rational varieties"</em> by <em>Koll&#225;r, Smith, Corti</em>.
+
+</li>
+
+<li> The cone and contraction theorems - a nice characterization of birational morphisms.
+<em>"Higher dimensional algebraic geometry"</em> by <em>Debarre</em> or <em>"Rational and nearly rational varieties"</em> by <em>Koll&#225;r, Smith, Corti</em> or <em>"Birational geometry of algebraic varieties"</em> by <em>Koll&#225;r, Mori</em>.
+
+</li>
+
+<li> Flips and flops - these are interesting birational phenomenon occurring in dimension 3 and higher. See <em>"Flips and flops"</em> by <em>McKernan, <a href="http://math.mit.edu/~mckernan/Papers/faf.pdf"><tt>http://math.mit.edu/~mckernan/Papers/faf.pdf</tt></a></em>.
+
+</li>
+</ol>
+
+
+
+<h3>Topology/Geometry</h3>
+
+<ol >
+<li> The fundamental group of the complement of a curve in <b>P</b><sup>2</sup> - this is related in an intriguing way to the singularities of the curve. 
+<em>"On the problem of existence of algebraic functions of two variables possessing a given branch curve"</em> by <em>Zariski, <a href="http://www.jstor.org/pss/2370712"><tt>http://www.jstor.org/pss/2370712</tt></a></em>.
+
+</li>
+
+<li>
+<em>"The topology of normal singularities of an algebraic surface and a criterion for simplicity."</em> by <em>Mumford, <a href="http://www.springerlink.com/content/b18270328x614668/"><tt>http://www.springerlink.com/content/b18270328x614668/</tt></a></em>.
+
+</li>
+</ol>
+
+
+
+<h3>Other Interesting Topics</h3>
+
+<ol >
+<li> Gale transform - tuples of point in <b>P</b><sup>n</sup> are related in an interesting way to tuples of points in <b>P</b><sup>m</sup>.
+<em>"The projective geometry of the Gale transform"</em> by <em>Eisenbud, <a href="http://arxiv.org/pdf/math/9807127"><tt>http://arxiv.org/pdf/math/9807127</tt></a></em>.
+
+</li>
+
+<li> Borel-Weil-Bott theorem - representations of certain algebraic groups are related to sections of vector bundles on a projective variety.
+
+</li>
+
+<li> Vector bundles on projective spaces - when do vector bundles on <b>P</b><sup>n</sup> split? How do their restrictions to a line change as we move the line? See the book
+<em>"Vector Bundles on Complex Projective Spaces"</em> by <em>Okonek C., Schneider M., Spindler H.</em>.
+
+</li>
+
+<li> Computational techniques in algebraic geometry - Gr&#246;bner bases etc.
+
+</li>
+</ol>
+
+
+<div class="footer">
+The seminar is organized by Changho Han [chhan@math.harvard.edu] 
+and Chi-Yun Hsu [chiyun@math.harvard.edu].
+
+<p>
+  The design of this webpage is copied shamelessly from <a href="http://math.mit.edu/~zakh/juvitop.html">Juvitop's webpage</a>
+  <br/>
+  <a href="http://validator.w3.org/check?uri=referer">XHTML 1.0 Strict</a>
+  <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+</p>
+</div>
+
+</body>
+</html>

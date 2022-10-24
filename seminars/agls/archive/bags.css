@@ -1,0 +1,109 @@
+body {
+    background-color: white;
+    color: black;
+    width: 80%;
+    font-family: Helvetica, Verdana, Sans-Serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.footer {
+    padding-top:25px;
+    font-size:70%;		
+}
+
+h1,h2 {
+    text-align: center;
+    font-weight: normal; 
+}
+
+h3,h4 {
+    font-weight: normal; 
+}
+
+h3 {
+    text-align:center;
+}
+
+.talks { 
+    list-style-type: none; 
+    width: 70%;
+    max-width: 40em;
+    margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 10px;
+}
+
+.talks>li { 
+    margin-bottom: 40px;
+    line-height: 20px;
+}
+
+.title{
+    font-size: 100%;
+}
+
+.speaker{
+    line-height: 25px; 
+    font-size:110%;
+}
+
+.special{
+    float:right;
+    margin-right:1em;
+    font-size:110%;
+}
+
+.next .info{
+      background-color: #ddddff;
+      color: black;
+}
+
+.info { 
+    color: gray;
+    background: #f8f8f8;
+    padding: 6px;
+    text-align: center;
+    width: 5em;
+}
+
+.info b { 
+    display: block;
+    font-weight: normal;
+    font-size: 110%;
+}
+
+.info.location{
+    float: right;
+    margin-right: -8em;
+}
+
+.info.date{
+    float: left;
+    margin-left: -8em;
+}
+
+.abstract{
+    display: inline;
+    font-size: 80%;
+    padding: 1em;
+}
+
+.abstract a{
+    color: black;
+    outline: 0;	  
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+.abstract span{
+    display: block;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.abstract.hidden span{
+    display: none;
+}
